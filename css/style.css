@@ -1,7 +1,10 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
+html {
+	width: 100%;
+}
+
 body {
   padding-top: 50px;
-  width: 100%;
 }
 
 /* Top Left Viet Nam Care Word */
