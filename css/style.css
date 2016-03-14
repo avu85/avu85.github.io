@@ -1,6 +1,7 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
 body {
   padding-top: 50px;
+  width: 100%;
 }
 
 /* Top Left Viet Nam Care Word */
@@ -47,7 +48,6 @@ footer {
 	background-position: fixed;
 	color: white;
 	height: 98%;
-	width: 100%;
 }
 
 .jumbotron h1 {
