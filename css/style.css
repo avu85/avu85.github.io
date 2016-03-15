@@ -172,6 +172,8 @@ nav img {
 	}
 }
 
-div {
+/* Makes website become 100% of mobile phone's width */
+/* But now "Viet Nam Care" Logo squishes down */
+div, div.col-md-4 {
 	max-width: 100%;
 }
